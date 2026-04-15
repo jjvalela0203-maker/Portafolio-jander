@@ -5,3 +5,16 @@ body {
     line-height: 1.6;
     background-color: #f4f4f9;
 }
+
+.page-header {
+    background-color: #18a50e;
+    color: white;
+    padding: 1rem 2rem;
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+}
+
+.menu ul {
+    list-style: none;
+}
